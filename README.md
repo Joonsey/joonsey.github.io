@@ -3,7 +3,7 @@
 I'm Johannes I was born in Trondheim, Norway. I am now 18 years old and i'm an aspiring software developer who likes to program, been learning ``` python ``` for a while and like to work in it.
 Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/), and [flappybird!](https://github.com/Joonsey/FlappybirdAi) (with an integrated NEURAL NETWORK AI) with lots more to come.
 
-### Why python?
+### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
 It's also easy to find documentation and usefull modules from other people and use them.
@@ -17,9 +17,9 @@ I have done some html and set up a website on a local host, but as i have moved 
 
 ### Do have any other hobbies?
 
-Yes, i play World Of Warcraft somewhat competetively, [my character](https://raider.io/characters/eu/argent-dawn/J%C3%A6nn%C3%A4)
-I have a Steam library of around ≈600 games.
-I also play most other competetive games on a level.
+-Yes, i play World Of Warcraft somewhat competetively, [my character](https://raider.io/characters/eu/argent-dawn/J%C3%A6nn%C3%A4)
+-I have a Steam library of around ≈600 games. 
+-I also play most other competetive games on a level. 
 
 ### My most recent projects
 
