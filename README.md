@@ -1,12 +1,14 @@
-## Welcome to my github page
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/Joonsey/joonsey.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Johannes I was born in Trondheim, Norway. I am now 18 years old and i'm an aspiring software developer who likes to program, been learning ``` python ``` for a while and like to work in it.
+Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/), and [flappybird!](https://github.com/Joonsey/FlappybirdAi) (with an integrated NEURAL NETWORK AI) with lots more to come
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why python?
 
-### Markdown
+Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
+It's also easy to find documentation and usefull modules from other people and use them.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
