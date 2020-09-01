@@ -1,7 +1,7 @@
 # Welcome to my GitHub page
 
 I'm Johannes I was born in Trondheim, Norway. I am now 18 years old and i'm an aspiring software developer who likes to program, been learning ``` python ``` for a while and like to work in it.
-Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/) and [flappybird!](https://github.com/Joonsey/FlappybirdAi) (with an integrated NEURAL NETWORK AI) with lots more to come.
+Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/), [flappybird!](https://github.com/Joonsey/FlappybirdAi) and [a discord bot named Snowden](https://joonsey.github.io/Snowden/) with lots more to come.
 
 ### Why Python?
 
@@ -112,3 +112,19 @@ I made functions that draw the bird on the screen to avoid any complications and
 I also made a function to get the mask of the bird to check for colission. Which I further improved to only check for colored pixels making the hitbox pixel-perfect.
 
 This class is run 50 times (by default) until every bird is dead and then it will repeat using the best bird as it's main 'genome'. This ai is very succesful and will go on indefinetly after a few (if not the first) generations.
+
+## How did you make Snowden?
+
+Had some time to spend and wanted to practie some python. Sadly a discord bot doesn't really use any python it's almost entirely decorators and pre-made functions like:
+```python
+@client.command()
+async def ping(ctx):
+    await ctx.send(f'{round(client.latency * 1000)}ms')
+    await ctx.trigger_typing()
+```
+**or things like**
+```python
+@client.command()
+async def whatever_you_want_the_bot_to_react_to(ctx) 
+    await ctx.send('Whatever you want the bot to send')
+    ```
