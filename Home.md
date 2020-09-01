@@ -3,4 +3,4 @@ title: Homepage
 permalink: /home/
 theme: jekyll-theme-cayman
 ---
-# pls fucking work
+# Welcome to the homepage!
