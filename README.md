@@ -13,7 +13,7 @@ It's also easy to find documentation and usefull modules from other people and u
 Not yet, but I like to work on some intertemdiate projects like neural network flappy bird and socketing (i.e server and client hosting).
 Although most of repositories are private as of now i'll publish more as I see them improve and become more comfortable with publishing them.
 
-I have done some html and set up a website on a local host, but as i have moved into a new flat i haven't port forwarded my port yet so i am unavailable to host the server as of now. front-end is developed with ```html``` and ```css```, and back end is entirely made with the [Flask](https://flask.palletsprojects.com/en/1.1.x/) module in python.
+I have done some html and set up a website on a local host, but as I have moved into a new flat I haven't port forwarded my port yet so I am unavailable to host the server as of now. front-end is developed with ```html``` and ```css```, and back end is entirely made with the [Flask](https://flask.palletsprojects.com/en/1.1.x/) module in python.
 
 ### Do have any other hobbies?
 
