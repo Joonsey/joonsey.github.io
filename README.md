@@ -127,4 +127,4 @@ async def ping(ctx):
 @client.command()
 async def whatever_you_want_the_bot_to_react_to(ctx) 
     await ctx.send('Whatever you want the bot to send')
-    ```
+```
