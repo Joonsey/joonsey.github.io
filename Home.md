@@ -1,5 +1,5 @@
 title: Homepage
-permalink: /home/
+permalink: https://joonsey.github.io/home/
 theme: jekyll-theme-cayman
 
 # pls fucking work
