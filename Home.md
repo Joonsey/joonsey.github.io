@@ -1,5 +1,6 @@
+---
 title: Homepage
-permalink: https://joonsey.github.io/home/
+permalink: /home/
 theme: jekyll-theme-cayman
-
+---
 # pls fucking work
