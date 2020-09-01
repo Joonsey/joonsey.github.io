@@ -1,7 +1,7 @@
 # Welcome to my GitHub page
 
 I'm Johannes I was born in Trondheim, Norway. I am now 18 years old and i'm an aspiring software developer who likes to program, been learning ``` python ``` for a while and like to work in it.
-Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/), and [flappybird!](https://github.com/Joonsey/FlappybirdAi) (with an integrated NEURAL NETWORK AI) with lots more to come.
+Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/) and [flappybird!](https://github.com/Joonsey/FlappybirdAi) (with an integrated NEURAL NETWORK AI) with lots more to come.
 
 ### Why Python?
 
