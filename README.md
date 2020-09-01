@@ -17,10 +17,9 @@ I have done some html and set up a website on a local host, but as i have moved 
 
 ### Do have any other hobbies?
 
--Yes, i play World Of Warcraft somewhat competetively
--[my character in WoW](https://raider.io/characters/eu/argent-dawn/J%C3%A6nn%C3%A4)
--I have a Steam library of around ≈600 games. 
--I also play most other competetive games on a level. 
+Yes, i play World Of Warcraft somewhat competetively
+I have a Steam library of around ≈600 games. 
+I also play most other competetive games on a level. 
 
 ### My most recent projects
 
