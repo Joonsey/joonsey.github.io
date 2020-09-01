@@ -115,7 +115,7 @@ This class is run 50 times (by default) until every bird is dead and then it wil
 
 ## How did you make Snowden?
 
-Had some time to spend and wanted to practie some python. __Sadly a discord bot doesn't really use any python it's almost entirely decorators and pre-made functions like:__
+Had some time to spend and wanted to practie some python. __Sadly a discord bot doesn't really use any python, it's almost entirely decorators and pre-made functions like:__
 ```python
 @client.command()
 async def ping(ctx):
