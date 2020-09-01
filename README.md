@@ -17,10 +17,10 @@ I have done some html and set up a website on a local host, but as I have moved 
 
 ### Do you have any other hobbies?
 
-Yes! I play World of Warcraft at a competetive level, among many other games.
+Yes! I play World of Warcraft at a competitive level, among many other games.
 I have a Steam library of around 600 games.
 I aspire to become proficient in almost every competitive enviornment I am in.
-I qualify as top 0.5% - 15% in most of the games I play
+I qualify as top 0.5% - 20% in most of the games I play
 
 
 ### My most recent projects
