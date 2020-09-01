@@ -6,7 +6,7 @@ Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/
 ### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
-It's also easy to find documentation and usefull modules from other people and use them.
+It's also easy to find documentation and useful modules from other people and use them.
 
 ### Have you done any large scale projects?
 
@@ -30,7 +30,7 @@ Where you can also track my projects and contributions!
 
 ## How I work or approach projects
 
-I usually find something that piqued my interest as I see it's either interesting or would be overall helpfull with something, then try do research to find different approaches to make a suiteable program. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. 
+I usually find something that piqued my interest as I see it's either interesting or would be overall helpful with something, then try do research to find different approaches to make a suiteable program. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. 
 
 I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do alot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
 
@@ -111,4 +111,4 @@ class Bird:
 I made functions that draw the bird on the screen to avoid any complications and for easy accessability.
 I also made a function to get the mask of the bird to check for colission. Which I further improved to only check for colored pixels making the hitbox pixel-perfect.
 
-This class is run 50 times (by default) until every bird is dead and then it will repeat using the best bird as it's main 'genome'. This ai is very succesfull and will go on indefinetly after a few (if not the first) generations.
+This class is run 50 times (by default) until every bird is dead and then it will repeat using the best bird as it's main 'genome'. This ai is very succesful and will go on indefinetly after a few (if not the first) generations.
