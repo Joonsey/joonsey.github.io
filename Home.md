@@ -1,3 +1,5 @@
-title: "PAGE TITLE"
+title: Homepage
 permalink: /home/
-theme: 
+theme: jekyll-theme-cayman
+
+# pls fucking work
