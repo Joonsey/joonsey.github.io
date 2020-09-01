@@ -1,6 +1,6 @@
 ---
 title: Homepage
-permalink: /home/
-theme: jekyll-theme-cayman
+permalink: /home/ jekyll-theme-merlot
+theme: 
 ---
 # Welcome to the homepage!
