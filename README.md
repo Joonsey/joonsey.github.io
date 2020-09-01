@@ -19,7 +19,7 @@ I have done some html and set up a website on a local host, but as I have moved 
 
 Yes! I play World of Warcraft at a competetive level, among many other games.
 I have a Steam library of around 600 games.
-I tend to want to become very good at almost every competitive enviornment I am in.
+I aspire to become proficient in almost every competitive enviornment I am in.
 I qualify as top 0.5% - 15% in most of the games I play
 
 
