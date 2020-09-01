@@ -32,7 +32,7 @@ Where you can also track my projects and contributions!
 
 I usually find something that piqued my interest as I see it's either interesting or would be overall helpful with something, then try do research to find different approaches to make a suiteable program. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. 
 
-I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do alot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
+I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do a lot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
 
 ### How did you go about making the flappy bird?
 
