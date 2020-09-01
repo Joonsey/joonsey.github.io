@@ -10,7 +10,7 @@ It's also easy to find documentation and usefull modules from other people and u
 
 ### Have you done any large scale projects?
 
-Not yet, but I like to work on some intertemdiate projects like neural network flappy bird and socketing (i.e server and client hosting).
+Not yet, but I like to work on some intermediate projects like neural network flappy bird and socketing (i.e server and client hosting).
 Although most of repositories are private as of now i'll publish more as I see them improve and become more comfortable with publishing them.
 
 I have done some html and set up a website on a local host, but as I have moved into a new flat I haven't port forwarded my port yet so I am unavailable to host the server as of now. front-end is developed with ```html``` and ```css```, and back end is entirely made with the [Flask](https://flask.palletsprojects.com/en/1.1.x/) module in python.
@@ -19,7 +19,7 @@ I have done some html and set up a website on a local host, but as I have moved 
 
 Yes! I play World of Warcraft at a competetive level, among many other games.
 I have a Steam library of around 600 games.
-I tend to want to become very good at almost every competetive enviornment I am in.
+I tend to want to become very good at almost every competitive enviornment I am in.
 I qualify as top 0.5% - 15% in most of the games I play
 
 
@@ -28,9 +28,9 @@ I qualify as top 0.5% - 15% in most of the games I play
 You can find all my published projects and repositories over at my [git hub](https://github.com/Joonsey)
 Where you can also track my projects and contributions!
 
-## How I work or aproach projects
+## How I work or approach projects
 
-I usually find something that spikes my interest as I see it's eithet interesting or would be overall helpfull with something, then try do research to find differen aproaches to make a solution. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. 
+I usually find something that piqued my interest as I see it's either interesting or would be overall helpfull with something, then try do research to find different approaches to make a suiteable program. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. 
 
 I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do alot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
 
@@ -108,7 +108,7 @@ class Bird:
     def get_mask(self):
         return pygame.mask.from_surface(self.img) 
 ```
-I made functions that draws the bird on the screen to avoid any complication and for easy accessability.
+I made functions that draw the bird on the screen to avoid any complications and for easy accessability.
 I also made a function to get the mask of the bird to check for colission. Which I further improved to only check for colored pixels making the hitbox pixel-perfect.
 
 This class is run 50 times (by default) until every bird is dead and then it will repeat using the best bird as it's main 'genome'. This ai is very succesfull and will go on indefinetly after a few (if not the first) generations.
