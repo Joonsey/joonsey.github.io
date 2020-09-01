@@ -30,7 +30,9 @@ Where you can also track my projects and contributions!
 
 ## How I work or aproach projects
 
-I usually find something that spikes my interest as I see it's eithet interesting or would be overall helpfull with something, then try do research to find differen aproaches to make a solution. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do alot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
+I usually find something that spikes my interest as I see it's eithet interesting or would be overall helpfull with something, then try do research to find differen aproaches to make a solution. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. 
+
+I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do alot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
 
 ### How did you go about making the flappy bird?
 
