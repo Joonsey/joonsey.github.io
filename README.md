@@ -10,8 +10,8 @@ It's also easy to find documentation and usefull modules from other people and u
 
 ### Have you done any large scale projects?
 
-Not yet, but i like to work on some intertemdiate projects like neural network flappy bird and socketing (i.e server and client hosting).
-Although most of repositories are private as of now i'll publish more as i see them improve and become more comfortable with publishing them.
+Not yet, but I like to work on some intertemdiate projects like neural network flappy bird and socketing (i.e server and client hosting).
+Although most of repositories are private as of now i'll publish more as I see them improve and become more comfortable with publishing them.
 
 I have done some html and set up a website on a local host, but as i have moved into a new flat i haven't port forwarded my port yet so i am unavailable to host the server as of now. front-end is developed with ```html``` and ```css```, and back end is entirely made with the [Flask](https://flask.palletsprojects.com/en/1.1.x/) module in python.
 
@@ -19,8 +19,8 @@ I have done some html and set up a website on a local host, but as i have moved 
 
 Yes! I play World of Warcraft at a competetive level, among many other games.
 I have a Steam library of around 600 games.
-I tend to want to become very good at almost every competetive game i play.
-I qualify as top 0.5% - 15% in most of the games i play
+I tend to want to become very good at almost every competetive enviornment I am in.
+I qualify as top 0.5% - 15% in most of the games I play
 
 
 ### My most recent projects
@@ -28,13 +28,13 @@ I qualify as top 0.5% - 15% in most of the games i play
 You can find all my published projects and repositories over at my [git hub](https://github.com/Joonsey)
 Where you can also track my projects and contributions!
 
-## How i work or aproach projects
+## How I work or aproach projects
 
-i usually find something that spikes my interest as i see it's eithet interesting or would be overall helpfull with something, then try do research to find differen aproaches to make a solution. I am very comfortable picking up new modules and finding proper documentation as i'm very comfortable with Python syntax. I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do alot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
+I usually find something that spikes my interest as I see it's eithet interesting or would be overall helpfull with something, then try do research to find differen aproaches to make a solution. I am very comfortable picking up new modules and finding proper documentation as I'm very comfortable with Python syntax. I usually like to work really hard on something in one sitting, don't usually take a lot of breaks. Prefer to do alot of work at once to not miss or forget something. Don't like to sit and wait for something while doing nothing. 
 
 ### How did you go about making the flappy bird?
 
-I decided one day at 5 am i wanted to learn neural network as i felt like i was ready for the task. I found a nice tutorial for the "neat" module and sat down developing the game classes and loop for about 9 hours straight. Then i proceeded to implement the Neural network and tempered with differen weights/values until i had something i was very comfortable with.
+I decided one day at 5 am I wanted to learn neural network as I felt like I was ready for the task. I found a nice tutorial for the "neat" module and sat down developing the game classes and loop for about 9 hours straight. Then I proceeded to implement the Neural network and tempered with differen weights/values until I had something I was very comfortable with.
 
 **bird class** 
 
@@ -107,6 +107,6 @@ class Bird:
         return pygame.mask.from_surface(self.img) 
 ```
 I made functions that draws the bird on the screen to avoid any complication and for easy accessability.
-I also made a function to get the mask of the bird to check for colission. which i further improved to only check for colored pixels making the hitbox pixel-perfect.
+I also made a function to get the mask of the bird to check for colission. Which I further improved to only check for colored pixels making the hitbox pixel-perfect.
 
-This class is run 50 times (by default) until every bird is dead and then it will repeat using the best bird as it's main 'genome'. This ai is very succesfull and will go on indefinatly after a few (if not the first) generations.
+This class is run 50 times (by default) until every bird is dead and then it will repeat using the best bird as it's main 'genome'. This ai is very succesfull and will go on indefinetly after a few (if not the first) generations.
