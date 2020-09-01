@@ -17,7 +17,7 @@ I have done some html and set up a website on a local host, but as i have moved 
 
 ### Do have any other hobbies?
 
-Yes, i play World Of Warcraft somewhat competetively
+Yes, i play World Of Warcraft somewhat competetively.
 I have a Steam library of around ≈600 games. 
 I also play most other competetive games on a level. 
 
