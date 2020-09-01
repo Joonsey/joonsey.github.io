@@ -128,3 +128,6 @@ async def ping(ctx):
 async def whatever_you_want_the_bot_to_react_to(ctx) 
     await ctx.send('Whatever you want the bot to send')
 ```
+### I want to know more about this Snowden bot!
+
+Sure! [here](https://joonsey.github.io/Snowden/) is the page I made for it. 
