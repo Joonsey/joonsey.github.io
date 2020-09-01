@@ -1,4 +1,4 @@
-## Welcome to my GitHub page
+# Welcome to my GitHub page
 
 I'm Johannes I was born in Trondheim, Norway. I am now 18 years old and i'm an aspiring software developer who likes to program, been learning ``` python ``` for a while and like to work in it.
 Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/), and [flappybird!](https://github.com/Joonsey/FlappybirdAi) (with an integrated NEURAL NETWORK AI) with lots more to come.
@@ -15,7 +15,7 @@ Although most of repositories are private as of now i'll publish more as I see t
 
 I have done some html and set up a website on a local host, but as I have moved into a new flat I haven't port forwarded my port yet so I am unavailable to host the server as of now. front-end is developed with ```html``` and ```css```, and back end is entirely made with the [Flask](https://flask.palletsprojects.com/en/1.1.x/) module in python.
 
-### Do have any other hobbies?
+### Do you have any other hobbies?
 
 Yes! I play World of Warcraft at a competetive level, among many other games.
 I have a Steam library of around 600 games.
