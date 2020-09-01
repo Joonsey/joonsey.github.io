@@ -36,7 +36,7 @@ I usually like to work really hard on something in one sitting, don't usually ta
 
 ### How did you go about making the flappy bird?
 
-I decided one day at 5 am I wanted to learn neural network as I felt like I was ready for the task. I found a nice tutorial for the "neat" module and sat down developing the game classes and loop for about 9 hours straight. Then I proceeded to implement the Neural network and tempered with differen weights/values until I had something I was very comfortable with.
+I decided one day at 5 am I wanted to learn neural network as I felt like I was ready for the task. I found a nice tutorial for the "neat" module and sat down developing the game classes and loop for about 9 hours straight. Then I proceeded to implement the neural network and tempered with different weights/values until I had something I was very comfortable with.
 
 **bird class** 
 
