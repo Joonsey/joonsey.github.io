@@ -34,9 +34,9 @@ i usually find something that spikes my interest as i see it's eithet interestin
 
 ### How did you go about making the flappy bird?
 
-I decided one day 5 am i wanted to learn neural network as i felt like i was ready for the task. I found a nice tutorial for the "neat" module and sat down developing the game classes and loop for about 9 hours straight. Then i proceeded to implement the Neural network and tempered with differen weights/values until i had something i was very comfortable with.
+I decided one day at 5 am i wanted to learn neural network as i felt like i was ready for the task. I found a nice tutorial for the "neat" module and sat down developing the game classes and loop for about 9 hours straight. Then i proceeded to implement the Neural network and tempered with differen weights/values until i had something i was very comfortable with.
 
-*bird class* 
+**bird class** 
 
 ```python
 class Bird:
@@ -108,3 +108,5 @@ class Bird:
 ```
 I made functions that draws the bird on the screen to avoid any complication and for easy accessability.
 I also made a function to get the mask of the bird to check for colission. which i further improved to only check for colored pixels making the hitbox pixel-perfect.
+
+This class is run 50 times (by default) until every bird is dead and then it will repeat using the best bird as it's main 'genome'. This ai is very succesfull and will go on indefinatly after a few (if not the first) generations.
