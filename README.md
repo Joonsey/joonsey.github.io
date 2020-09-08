@@ -4,7 +4,7 @@ I'm Johannes I was born in Trondheim, Norway. I am now 18 years old and i'm an a
 Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/), [flappybird!](https://github.com/Joonsey/FlappybirdAi) and [a discord bot named Snowden](https://joonsey.github.io/Snowden/) with lots more to come.
 
 ## Blog
-#### [week 37](#firstweek)
+* [week 37](#firstweek)
 
 ### Why Python?
 
@@ -139,4 +139,5 @@ Sure! [here](https://joonsey.github.io/Snowden/) is the page I made for it.
 # Blog
 #### first week {#firstweek}
 I have gotten into a weird sleep schedule where i sleep from 5-9pm and stay up for the rest of the day/night. Althought i'm content with it as i'm atleast able to show up in class now. I have spent alot of time researching `css` and `html`. As well as learning some fundamentals of a secure back-end query and process made with SQL and `JavaScript` from a Turk.  
+
 I'm some what dissatisfied with my progress however, been alot of researching but my physical practise has been lackluster. I find implementing`css` in `html` being unnaturaly hard which is strange considering how easy they are suppose to be. I did watch a [really good presentation about css grid](https://www.youtube.com/watch?v=7kVeCqQCxlk&ab_channel=CodingTech). (I recommend everyone to watch, even people who don't have a general interests in IT.) Which was extremely helpful and simple, was also fun to practise with.
