@@ -137,4 +137,4 @@ Sure! [here](https://joonsey.github.io/Snowden/) is the page I made for it.
 
 
 # Blog
-#### first week (#week1)
+#### first week {#firstweek}
