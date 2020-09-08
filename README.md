@@ -4,7 +4,7 @@ I'm Johannes I was born in Trondheim, Norway. I am now 18 years old and i'm an a
 Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/), [flappybird!](https://github.com/Joonsey/FlappybirdAi) and [a discord bot named Snowden](https://joonsey.github.io/Snowden/) with lots more to come.
 
 ## Blog
-#### [week 1](https://github.com/Joonsey/joonsey.github.io/blob/master/README.md#first-week-week1)
+#### [week 1](https://joonsey.github.io/blob/master/README.md#first-week-week1)
 
 ### Why Python?
 
