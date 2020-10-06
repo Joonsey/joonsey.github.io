@@ -5,7 +5,10 @@ Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/
 
 ## Blog
 * [week 37](#firstweek)
-
+* [week 38](#secondweek)
+* [week 39](#thirdweek)
+* [week 40](#fourthweek)
+* [week 41](#fifthweek)
 ### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
@@ -141,3 +144,21 @@ Sure! [here](https://joonsey.github.io/Snowden/) is the page I made for it.
 I have gotten into a weird sleep schedule where i sleep from 5-9pm and stay up for the rest of the day/night. Althought i'm content with it as i'm atleast able to show up in class now. I have spent alot of time researching `css` and `html`. As well as learning some fundamentals of a secure back-end query and process made with SQL and `JavaScript` from a Turk.  
 
 I'm some what dissatisfied with my progress however, been alot of researching but my physical practise has been lackluster. I find implementing`css` in `html` being unnaturaly hard which is strange considering how easy they are suppose to be. I did watch a [really good presentation about css grid](https://www.youtube.com/watch?v=7kVeCqQCxlk&ab_channel=CodingTech). (I recommend everyone to watch, even people who don't have a general interests in IT.) Which was extremely helpful and simple, was also fun to practise with.
+
+### second week {#secondweek}
+Remained the same sleep schedule, learned some more api calls but lost alot of progress due to being incompetent. Gotten some offers on Fiverr but declined all of them as most of them seemed criminal or malicious.
+
+Tried to some Web-dev but didn't get too far. Understand HTML and CSS even better now though
+
+### 3rd week {#thirdweek}
+Didn't really do alot, just played video games. Although tried to learn about 0auth but that seems overcomplicated and i am contracting a migrane just thinking about it.
+
+Tried to practise webscraping! So i made a script that finds a movie on IDMB and returns the rating of the said movie in a script. Pretty cool. (might link to that later when it's fully operational)
+
+### 4th week {#fourthweek}
+Vacation, video game rampage
+
+### 5th week {#fifthweek}
+Back in a rythm where i sleep all day but code mostly during the morning before school. I have again implemented new API's on my Discord bot and made some new funny functions as well as making it display weather information in my area using YR's Weather API. Having alot of fun with that. 
+
+Alot of trial and error with 0Auth to attempt to implement World Of Warcraft Data on my discord bot. Again, it's [Snowden](https://joonsey.github.io/Snowden/) i'm talking about.
