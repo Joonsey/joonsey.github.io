@@ -9,6 +9,8 @@ Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/
 * [week 39](#thirdweek)
 * [week 40](#fourthweek)
 * [week 41](#fifthweek)
+* [week 42](#sixthweek)
+* [week 43](#seventhweek)
 ### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
@@ -162,3 +164,10 @@ Vacation, video game rampage
 Back in a rythm where i sleep all day but code mostly during the morning before school. I have again implemented new API's on my Discord bot and made some new funny functions as well as making it display weather information in my area using YR's Weather API. Having alot of fun with that. 
 
 Alot of trial and error with 0Auth to attempt to implement World Of Warcraft Data on my discord bot. Again, it's [Snowden](https://joonsey.github.io/Snowden/) i'm talking about.
+
+### 6th week {#sixthweek}
+Got sick alot but just did some silly projects regarding some practise for school so I could help myself practise for school tests.
+Was especially helpful to stay motivated and subconsciously learn while having fun.
+
+### 7th week {#seventhweek}
+No longer sick and playing alot of World of warcraft because of the pre-patch to the new expansion.
