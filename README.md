@@ -11,6 +11,7 @@ Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/
 * [week 41](#fifthweek)
 * [week 42](#sixthweek)
 * [week 43](#seventhweek)
+* [week 44](#eightweek)
 ### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
@@ -171,3 +172,6 @@ Was especially helpful to stay motivated and subconsciously learn while having f
 
 ### 7th week {#seventhweek}
 No longer sick and playing alot of World of warcraft because of the pre-patch to the new expansion.
+
+### 8th week {#eightweek}
+Done alot of scripting and trying automation where i can. Making bots and scripts to play games or parse images.
