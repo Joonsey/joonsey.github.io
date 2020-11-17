@@ -13,6 +13,8 @@ Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/
 * [week 43](#seventhweek)
 * [week 44](#eightweek)
 * [week 45](#ninthweek)
+* [week 46](#tenthweek)
+* [week 47](#eleventhweek)
 ### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
@@ -180,3 +182,9 @@ Done alot of scripting and trying automation where i can. Making bots and script
 ### 9th week {#ninthweek}
 Parsing images still, just managed to install tensorflow and learning Keras, trying to understand how it works, with moderate success.
 Also made a discord bot to give inputs on my computer, successfully made the discord bot play slay the spire through parsing images on my screen and recieveing direction from inputs in discord. Both through reactions and messages.
+
+### 10th week {#tenthweek}
+Looking into interesting algorythms like boids algorythm which simulates "flock" in animals.
+
+### 11th week {#eleventhweek}
+Fixing some scripts and helping some friend practise for a Python test, went very succesfull. Learning the use dictionairies.
