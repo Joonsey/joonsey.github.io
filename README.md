@@ -15,6 +15,7 @@ Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/
 * [week 45](#ninthweek)
 * [week 46](#tenthweek)
 * [week 47](#eleventhweek)
+* [week 48](#twelvthweek)
 ### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
