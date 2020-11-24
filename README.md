@@ -188,3 +188,6 @@ Looking into interesting algorythms like boids algorythm which simulates "flock"
 
 ### 11th week {#eleventhweek}
 Fixing some scripts and helping some friend practise for a Python test, went very succesfull. Learning the use dictionairies.
+
+### 12th week {#twelvthweek}
+Made a nosql database and i am managing it with python code, also made a website template. So now i just have to integrate them...
