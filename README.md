@@ -16,6 +16,7 @@ Made some funny small projects like a [keybot](https://joonsey.github.io/Keybot/
 * [week 46](#tenthweek)
 * [week 47](#eleventhweek)
 * [week 48](#twelvthweek)
+* [week 49](#13)
 ### Why Python?
 
 Python is easy to learn and very comprehensible, and was by far the best choice to learn as a beginner.
@@ -192,3 +193,6 @@ Fixing some scripts and helping some friend practise for a Python test, went ver
 
 ### 12th week {#twelvthweek}
 Made a nosql database and i am managing it with python code, also made a website template. So now i just have to integrate them...
+
+### 13th week {#13}
+Got a host for my website, working on the design og the website, finnished some tuning on the back-end
