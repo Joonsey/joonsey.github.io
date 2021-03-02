@@ -208,7 +208,37 @@ Fixing some scripts and helping some friend practise for a Python test, went ver
 Made a nosql database and i am managing it with python code, also made a website template. So now i just have to integrate them...
 
 ### 13th week {#thirteenthweek}
-Got a host for my website, working on the design og the website, finnished some tuning on the back-end
+Got a host for my website, working on the design og the website, finnished some tuning on the back-end.
 
 ### 14th week {14thweek}
-I have a fully functioning website with a back end and front end, it has API integration and a database
+I have a fully functioning website with a back end and front end, it has API integration and a database.
+
+
+# 2021 started! finally that cursed year is over
+
+### 1st week {1week}
+Got into machine learning using Tensorflow and Keras API. But started properly learning linear algebra and mathematics with Numpy.
+
+### 2nd week {2week}
+Tried making my own machine learning algorythm without the use of any API for practise which did work out and made me understand some of the complexities of machine learning.
+
+### 3rd week {3week}
+Made an AI that i trained on random data from a real estate company which worked. It could anticipate the price of a house based on 2 given variables.
+
+### 4th week {4week}
+Finished up on myfirst real Tensorflow project! It is a [MNIST trained AI](https://github.com/Joonsey/MNIST) that will parse a 16px image and guess what number is drawn on the image.
+I hade moderate success with this, it has a 99,7% accuracy on the training and verification sets however it doesnt work nearly as well in practise.
+
+### 5th week {5week}
+Got started on a businness example where i use data gathered from a audiobook company over the course of two years, this is going to be used to check who are likely to become a customer for the service so the company can further narrow their adverticement so they can save money on targetting adverticement on people.
+
+### 6th week {6week}
+We also had internship weeks from 5-7 week so i didn't do alot and i was also sick during this time. 
+
+### 7th week {7week}
+I got better and we built computers and categorized and serialized the computers and parts during the internship.
+
+### 8th week {8week}
+Worked on the business example and worked on preparing all the data i had gotten. This was a tedius and long process that involves alot of batching and categorizing. I am making 3 different data sets, one test set, one training set, and one validation set, and i have to make sure they are proportionate in size and not biased, i also have to shuffle the data to make sure there isn't any unfavourable coefficient involved (like a sales week or similar)
+
+### 9th week {9week}
